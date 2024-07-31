@@ -1,0 +1,33 @@
+/header{
+   background-color: rgb(0, 0, 0);
+   padding: 18px;
+   border-radius: 15px;   
+   font-family: 'Roboto';
+   
+}
+     .box1 {
+       background-color: black;
+       overflow: hidden;
+     }
+     
+     .box1 a {
+       float: left;
+       display: block;
+       color: aquamarine;
+       text-align: center;
+       padding: 14px 20px;
+       text-decoration: none;
+     }
+     
+     .box1 a:hover {
+      background-color:aquamarine;
+       color: black;
+     }
+     body{
+      background-color: black;
+      color: aquamarine;
+      
+   }
+img{
+  align-content: center;
+}
